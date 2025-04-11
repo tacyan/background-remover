@@ -1,0 +1,21 @@
+{
+  "name": "background-remover",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.5.1",
+    "jszip": "^3.10.1",
+    "file-saver": "^2.0.5",
+    "busboy": "^1.6.0",
+    "uuid": "^9.0.0"
+  }
+} 

@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.specstory
+template
+node_modules
+.next
+.cursorindexingignore
+temp
